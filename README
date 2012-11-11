@@ -1,1 +1,19 @@
-This file was created by JetBrains PhpStorm 5.0.2 for binding GitHub repository
+That's a little (2.7KB (802 bytes gzipped) when minified) polyfill to access ECMAScript5-functionality in older browsers.
+It's inspired by Douglas Crockford's lecture "Level 7: ECMAScript 5: The New Parts" (Tuesday, March 29, 2011).
+The following methods implemented (only if native not found of course):
+
+* Object.keys
+* function.prototype.bind
+* String.prototype.trim
+* Array.isArray
+* Array.prototype.every
+* Array.prototype.filter
+* Array.prototype.forEach
+* Array.prototype.indexOf
+* Array.prototype.lastIndexOf
+* Array.prototype.map
+* Array.prototype.reduce
+* Array.prototype.reduceRight
+* Array.prototype.some
+* Date.now
+* Date.prototype.toISOString
