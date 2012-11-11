@@ -1,4 +1,4 @@
-That's a little (2.7KB (802 bytes gzipped) when minified) polyfill to access ECMAScript5-functionality in older browsers.
+That's a little (802 bytes minified gzipped) polyfill to access ECMAScript5-functionality in older browsers.
 It's inspired by Douglas Crockford's lecture "Level 7: ECMAScript 5: The New Parts" (Tuesday, March 29, 2011).
 The following methods implemented (only if native not found of course):
 
