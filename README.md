@@ -2,7 +2,7 @@ That's a little (802 bytes minified gzipped) polyfill to access ECMAScript5-func
 
 It's inspired by Douglas Crockford's lecture "Level 7: ECMAScript 5: The New Parts" (Tuesday, March 29, 2011).
 
-The following methods implemented (only if native not found of course):
+The following methods are implemented (only if native not found):
 
 * Object.keys
 * function.prototype.bind
