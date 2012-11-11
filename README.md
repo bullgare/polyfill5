@@ -5,8 +5,11 @@ It's inspired by Douglas Crockford's lecture "Level 7: ECMAScript 5: The New Par
 The following methods are implemented (only if native not found):
 
 * Object.keys
-* function.prototype.bind
+
+* Function.prototype.bind
+
 * String.prototype.trim
+
 * Array.isArray
 * Array.prototype.every
 * Array.prototype.filter
@@ -17,5 +20,6 @@ The following methods are implemented (only if native not found):
 * Array.prototype.reduce
 * Array.prototype.reduceRight
 * Array.prototype.some
+
 * Date.now
 * Date.prototype.toISOString
