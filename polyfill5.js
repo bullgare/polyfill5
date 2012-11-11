@@ -1,5 +1,6 @@
 // ECMAScript5 polyfill
 // inspired by this video: "D. Crockford: ECMAScript 5 - The New Parts"
+// it's not well tested yet
 
 (function()
 {
